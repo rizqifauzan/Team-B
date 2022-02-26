@@ -25,6 +25,4 @@ public class PerkalianTest {
         Assert.assertEquals("63", output);
         driver.quit();
     }
-
-
 }
